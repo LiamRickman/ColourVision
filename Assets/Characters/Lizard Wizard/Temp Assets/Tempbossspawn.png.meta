@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: b1632803d405dd34f9b86c98f547afc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3674915002772107670
+    second: Tempbossspawn_0
+  - first:
+      213: 3717390209316260199
+    second: Tempbossspawn_1
+  - first:
+      213: -8821140904246191466
+    second: Tempbossspawn_2
+  - first:
+      213: 1333651708490370965
+    second: Tempbossspawn_3
+  - first:
+      213: -8177001396323095920
+    second: Tempbossspawn_4
+  - first:
+      213: 1551805949525782211
+    second: Tempbossspawn_5
+  - first:
+      213: 7140110423934684937
+    second: Tempbossspawn_6
+  - first:
+      213: -5443451572624217495
+    second: Tempbossspawn_7
+  - first:
+      213: -5380619066693665314
+    second: Tempbossspawn_8
+  - first:
+      213: -8572417583784729725
+    second: Tempbossspawn_9
+  - first:
+      213: -3275580542011364851
+    second: Tempbossspawn_10
+  - first:
+      213: 7729066062730954848
+    second: Tempbossspawn_11
+  - first:
+      213: 6821804863192105397
+    second: Tempbossspawn_12
+  - first:
+      213: 4089417184366424821
+    second: Tempbossspawn_13
+  - first:
+      213: 1247177029638748366
+    second: Tempbossspawn_14
+  - first:
+      213: -2046447273893416316
+    second: Tempbossspawn_15
+  - first:
+      213: 3086166231779384270
+    second: Tempbossspawn_16
+  - first:
+      213: 4797627216041421804
+    second: Tempbossspawn_17
+  - first:
+      213: -7096712992110646568
+    second: Tempbossspawn_18
+  - first:
+      213: 1851098055650509584
+    second: Tempbossspawn_19
+  - first:
+      213: 3476494386642650499
+    second: Tempbossspawn_20
+  - first:
+      213: 3077778834580587332
+    second: Tempbossspawn_21
+  - first:
+      213: -7649265061280430544
+    second: Tempbossspawn_22
+  - first:
+      213: -1067072674771450062
+    second: Tempbossspawn_23
+  - first:
+      213: -7253412715504733059
+    second: Tempbossspawn_24
+  - first:
+      213: 106788713523509981
+    second: Tempbossspawn_25
+  - first:
+      213: -8341016980870993751
+    second: Tempbossspawn_26
+  - first:
+      213: 7282976143838480835
+    second: Tempbossspawn_27
+  - first:
+      213: -2324489680759926331
+    second: Tempbossspawn_28
+  - first:
+      213: -8177983808932163117
+    second: Tempbossspawn_29
+  - first:
+      213: -917265125097986571
+    second: Tempbossspawn_30
+  - first:
+      213: -7996087152804055900
+    second: Tempbossspawn_31
+  - first:
+      213: 6777125279240843490
+    second: Tempbossspawn_32
+  - first:
+      213: 824164086099483931
+    second: Tempbossspawn_33
+  - first:
+      213: 7539963340545500926
+    second: Tempbossspawn_34
+  - first:
+      213: 8369700764508667192
+    second: Tempbossspawn_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempbossspawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6913cf779bbeff230800000000000000
+      internalID: 3674915002772107670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1040
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698fc523b2d69330800000000000000
+      internalID: 3717390209316260199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1040
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69adcb08513059580800000000000000
+      internalID: -8821140904246191466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1040
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f49a2b925128210800000000000000
+      internalID: 1333651708490370965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1040
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae94cbd84758e80800000000000000
+      internalID: -8177001396323095920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_5
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1040
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce62dd0a4f198510800000000000000
+      internalID: 1551805949525782211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc0b3c994c61360800000000000000
+      internalID: 7140110423934684937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 832
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a21b5a2a9f474b0800000000000000
+      internalID: -5443451572624217495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 832
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddb70277733455b0800000000000000
+      internalID: -5380619066693665314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 832
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383e23c40a7a80980800000000000000
+      internalID: -8572417583784729725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 832
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a2b301adcca82d0800000000000000
+      internalID: -3275580542011364851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_11
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 832
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680b9a32a8234b60800000000000000
+      internalID: 7729066062730954848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1099d216bebae50800000000000000
+      internalID: 6821804863192105397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 624
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2f984334780c830800000000000000
+      internalID: 4089417184366424821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 624
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f4af86ecde4110800000000000000
+      internalID: 1247177029638748366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 624
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48234040c0f8993e0800000000000000
+      internalID: -2046447273893416316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 624
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb140b26d344da20800000000000000
+      internalID: 3086166231779384270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 624
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb25e8b888949240800000000000000
+      internalID: 4797627216041421804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da68583229638d90800000000000000
+      internalID: -7096712992110646568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 416
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0130773cfdb60b910800000000000000
+      internalID: 1851098055650509584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 416
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3858973b93dfe3030800000000000000
+      internalID: 3476494386642650499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 416
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44344641b8776ba20800000000000000
+      internalID: 3077778834580587332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 416
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c29d44f958d590800000000000000
+      internalID: -7649265061280430544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_23
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 416
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c8be4e0ff031f0800000000000000
+      internalID: -1067072674771450062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f903c093b65b90800000000000000
+      internalID: -7253412715504733059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf697e4c36b7100800000000000000
+      internalID: 106788713523509981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 208
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8eead9f31ce3c80800000000000000
+      internalID: -8341016980870993751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 208
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c903294734521560800000000000000
+      internalID: 7282976143838480835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_28
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 208
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c15e3673f0cdbfd0800000000000000
+      internalID: -2324489680759926331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_29
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 208
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1d3b9fd07f18e80800000000000000
+      internalID: -8177983808932163117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f52ea58a383543f0800000000000000
+      internalID: -917265125097986571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bc008911380190800000000000000
+      internalID: -7996087152804055900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07873e88f2d0e50800000000000000
+      internalID: 6777125279240843490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1894aed4007b00800000000000000
+      internalID: 824164086099483931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6aea4b5b453a860800000000000000
+      internalID: 7539963340545500926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossspawn_35
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dbad03086272470800000000000000
+      internalID: 8369700764508667192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 7e814db89d51dfc488fcfa1db4c2c7c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7185482905731696018
+    second: Tempbossdeath_0
+  - first:
+      213: 7350520848305404585
+    second: Tempbossdeath_1
+  - first:
+      213: 1063489806376902894
+    second: Tempbossdeath_2
+  - first:
+      213: 4977179358870498634
+    second: Tempbossdeath_3
+  - first:
+      213: -3252260309446707505
+    second: Tempbossdeath_4
+  - first:
+      213: -7616813919310559792
+    second: Tempbossdeath_5
+  - first:
+      213: -2442190105533942756
+    second: Tempbossdeath_6
+  - first:
+      213: -6477248211490739327
+    second: Tempbossdeath_7
+  - first:
+      213: 6727420350719018059
+    second: Tempbossdeath_8
+  - first:
+      213: -6817602664725956952
+    second: Tempbossdeath_9
+  - first:
+      213: -8570011264392067276
+    second: Tempbossdeath_10
+  - first:
+      213: 966472554309132379
+    second: Tempbossdeath_11
+  - first:
+      213: 1437346269330979991
+    second: Tempbossdeath_12
+  - first:
+      213: 1428507193993317258
+    second: Tempbossdeath_13
+  - first:
+      213: -6015243636357654559
+    second: Tempbossdeath_14
+  - first:
+      213: 4175230286789935563
+    second: Tempbossdeath_15
+  - first:
+      213: 5145983411571970584
+    second: Tempbossdeath_16
+  - first:
+      213: 1128740404806312278
+    second: Tempbossdeath_17
+  - first:
+      213: 6295164458582980122
+    second: Tempbossdeath_18
+  - first:
+      213: 2538838808939338495
+    second: Tempbossdeath_19
+  - first:
+      213: 8505651520148744606
+    second: Tempbossdeath_20
+  - first:
+      213: 5990342691548175953
+    second: Tempbossdeath_21
+  - first:
+      213: 4780702966719396504
+    second: Tempbossdeath_22
+  - first:
+      213: 440058121180431444
+    second: Tempbossdeath_23
+  - first:
+      213: 8363828862201071161
+    second: Tempbossdeath_24
+  - first:
+      213: 2968754295582783516
+    second: Tempbossdeath_25
+  - first:
+      213: -3629700827422871571
+    second: Tempbossdeath_26
+  - first:
+      213: -5747066616939483336
+    second: Tempbossdeath_27
+  - first:
+      213: 2737368104752816202
+    second: Tempbossdeath_28
+  - first:
+      213: -4173491807542355750
+    second: Tempbossdeath_29
+  - first:
+      213: -7460809318161256360
+    second: Tempbossdeath_30
+  - first:
+      213: 6836046747326516470
+    second: Tempbossdeath_31
+  - first:
+      213: 8299544422240383305
+    second: Tempbossdeath_32
+  - first:
+      213: -7622063878668932426
+    second: Tempbossdeath_33
+  - first:
+      213: 2399617941408062056
+    second: Tempbossdeath_34
+  - first:
+      213: 8131487418525408210
+    second: Tempbossdeath_35
+  - first:
+      213: 7880219564157983613
+    second: Tempbossdeath_36
+  - first:
+      213: -3313089531660385392
+    second: Tempbossdeath_37
+  - first:
+      213: -2092272616906719712
+    second: Tempbossdeath_38
+  - first:
+      213: 1649911128544074289
+    second: Tempbossdeath_39
+  - first:
+      213: -1020265256708538884
+    second: Tempbossdeath_40
+  - first:
+      213: -917147022864669230
+    second: Tempbossdeath_41
+  - first:
+      213: 7092490351963555916
+    second: Tempbossdeath_42
+  - first:
+      213: -8899968230960793430
+    second: Tempbossdeath_43
+  - first:
+      213: 1227839096990784066
+    second: Tempbossdeath_44
+  - first:
+      213: 823722940289080069
+    second: Tempbossdeath_45
+  - first:
+      213: 8534860128146258024
+    second: Tempbossdeath_46
+  - first:
+      213: 2917902978647308718
+    second: Tempbossdeath_47
+  - first:
+      213: -5233351098437623363
+    second: Tempbossdeath_48
+  - first:
+      213: 4873960240409247185
+    second: Tempbossdeath_49
+  - first:
+      213: -4089866504026038102
+    second: Tempbossdeath_50
+  - first:
+      213: -5645926477103529815
+    second: Tempbossdeath_51
+  - first:
+      213: 2452083042456410796
+    second: Tempbossdeath_52
+  - first:
+      213: 3415850305702861516
+    second: Tempbossdeath_53
+  - first:
+      213: 6450823199863616308
+    second: Tempbossdeath_54
+  - first:
+      213: 5298198077172764478
+    second: Tempbossdeath_55
+  - first:
+      213: 4720255345307841190
+    second: Tempbossdeath_56
+  - first:
+      213: 3629683559738431512
+    second: Tempbossdeath_57
+  - first:
+      213: -4087294142710682646
+    second: Tempbossdeath_58
+  - first:
+      213: 6265317069097613776
+    second: Tempbossdeath_59
+  - first:
+      213: 857915287332967721
+    second: Tempbossdeath_60
+  - first:
+      213: -4702859269724441934
+    second: Tempbossdeath_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tempbossdeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a78381e59084c90800000000000000
+      internalID: -7185482905731696018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab85d44cb420660800000000000000
+      internalID: 7350520848305404585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee02853285642ce00800000000000000
+      internalID: 1063489806376902894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de1e4b14e721540800000000000000
+      internalID: 4977179358870498634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b352da76add2d0800000000000000
+      internalID: -3252260309446707505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_5
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d54e339814ab4690800000000000000
+      internalID: -7616813919310559792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14fcadc9099b1ed0800000000000000
+      internalID: -2442190105533942756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_7
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1456
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6f00d1113c16a0800000000000000
+      internalID: -6477248211490739327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4447536a299c5d50800000000000000
+      internalID: 6727420350719018059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b0456f720361a0800000000000000
+      internalID: -6817602664725956952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43780d03924311980800000000000000
+      internalID: -8570011264392067276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50a2c4eaa9996d00800000000000000
+      internalID: 966472554309132379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_12
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cb4ba01da72f310800000000000000
+      internalID: 1437346269330979991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_13
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bcf0179b313d310800000000000000
+      internalID: 1428507193993317258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_14
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7197968cf858ca0800000000000000
+      internalID: -6015243636357654559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_15
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1248
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1019313d561f930800000000000000
+      internalID: 4175230286789935563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812dcc2f5a43a6740800000000000000
+      internalID: 5145983411571970584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516c18fa671aaf00800000000000000
+      internalID: 1128740404806312278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16b08cc8baec5750800000000000000
+      internalID: 6295164458582980122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1ec40274cb3320800000000000000
+      internalID: 2538838808939338495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e992ab12ef42a0670800000000000000
+      internalID: 8505651520148744606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_21
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e169490f8f12350800000000000000
+      internalID: 5990342691548175953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_22
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a37fbd408785240800000000000000
+      internalID: 4780702966719396504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_23
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1040
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544c7997866b1600800000000000000
+      internalID: 440058121180431444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93687a5690a421470800000000000000
+      internalID: 8363828862201071161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1870ad7d42233920800000000000000
+      internalID: 2968754295582783516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa4841456b0adc0800000000000000
+      internalID: -3629700827422871571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe0d47c515e30b0800000000000000
+      internalID: -5747066616939483336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a64fb9c51df520800000000000000
+      internalID: 2737368104752816202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_29
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad85f6a2057c416c0800000000000000
+      internalID: -4173491807542355750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_30
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f2164471e57890800000000000000
+      internalID: -7460809318161256360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_31
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 832
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8c5a3c448ede50800000000000000
+      internalID: 6836046747326516470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941763ddda7ed2370800000000000000
+      internalID: 8299544422240383305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2a98294df83690800000000000000
+      internalID: -7622063878668932426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1842ddc72d4120800000000000000
+      internalID: 2399617941408062056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_35
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd3c489b8d8d070800000000000000
+      internalID: 8131487418525408210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_36
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b58b141f92c5d60800000000000000
+      internalID: 7880219564157983613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_37
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093415cdf9a8502d0800000000000000
+      internalID: -3313089531660385392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_38
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e7ff7e321c6f2e0800000000000000
+      internalID: -2092272616906719712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_39
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 624
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a55d70e69a5e610800000000000000
+      internalID: 1649911128544074289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdf635972a47d1f0800000000000000
+      internalID: -1020265256708538884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_41
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5285754a3a543f0800000000000000
+      internalID: -917147022864669230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_42
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c484ca1c5669d6260800000000000000
+      internalID: 7092490351963555916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_43
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f1594c06fc7480800000000000000
+      internalID: -8899968230960793430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_44
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad87147292a0110800000000000000
+      internalID: 1227839096990784066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_45
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b554166a37e6b00800000000000000
+      internalID: 823722940289080069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_46
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8687dc1211ae17670800000000000000
+      internalID: 8534860128146258024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_47
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 416
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b353ac497e7820800000000000000
+      internalID: 2917902978647308718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1a9b847e66f57b0800000000000000
+      internalID: -5233351098437623363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd78fae309c3a340800000000000000
+      internalID: 4873960240409247185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa062c86510ed37c0800000000000000
+      internalID: -4089866504026038102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_51
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0854058c3a5a1b0800000000000000
+      internalID: -5645926477103529815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_52
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9f51198c870220800000000000000
+      internalID: 2452083042456410796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_53
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca145d41c9876f20800000000000000
+      internalID: 3415850305702861516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_54
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43338b8b58de58950800000000000000
+      internalID: 6450823199863616308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_55
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 208
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f4a83841bf68940800000000000000
+      internalID: 5298198077172764478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a276324a37b18140800000000000000
+      internalID: 4720255345307841190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d84977f93f5230800000000000000
+      internalID: 3629683559738431512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_58
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe133f1a30747c0800000000000000
+      internalID: -4087294142710682646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_59
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d931c4eda0e2f650800000000000000
+      internalID: 6265317069097613776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_60
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925dbdc886de7eb00800000000000000
+      internalID: 857915287332967721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tempbossdeath_61
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 187
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2fb6739661cbeb0800000000000000
+      internalID: -4702859269724441934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
